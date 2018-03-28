@@ -3,4 +3,5 @@
 
 Url  |  Pwd  | Author/Thanks
 ----:|:----:|:----
-https://pan.baidu.com/s/1o25jzCXSaMd2E6jTT4bCKg | v3k5 | 漠视我的温柔(qq:704456339)
+[Cts & CtsVerifier(Google)](https://source.android.com/compatibility/cts/downloads?hl=en) |    | Google
+[BaiduYun](https://pan.baidu.com/s/1o25jzCXSaMd2E6jTT4bCKg) | v3k5 | 漠视我的温柔(qq:704456339)

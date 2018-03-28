@@ -14,6 +14,6 @@ CTS-VERIFIER | [CtsVerifier常见问题及处理](https://github.com/Ken-u/GMS_G
 ## 常用工具/镜像下载链接
 File    | Url
 -----:|:----
-Test Suit | [测试包下载]()
-GSI Image | [GSI镜像下载]()
-GMS Requirement | [GMS相关文档下载]()
+Test Suit | [测试包下载](https://github.com/Ken-u/GMS_Guidance/blob/dev/Download/download.md)
+GSI Image | [GSI镜像下载](https://github.com/Ken-u/GMS_Guidance/blob/dev/Download/download.md)
+GMS Requirement | [GMS相关文档下载](https://github.com/Ken-u/GMS_Guidance/blob/dev/Download/download.md)
